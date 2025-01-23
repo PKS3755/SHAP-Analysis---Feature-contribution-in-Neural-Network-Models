@@ -107,23 +107,9 @@ o	SHAP ensures the sum of all feature attributions equals the difference between
 
 SHAP Insights in the Study
 In this study, SHAP analysis revealed the following:
+
+
 <img width="396" alt="image" src="https://github.com/user-attachments/assets/ad9064c4-77ec-44cb-9cd2-73903c836f46" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -165,12 +151,6 @@ SHAP ANALYSIS OF TWIST ANGLE
 
 <img width="503" alt="image" src="https://github.com/user-attachments/assets/35b1e60f-75d1-4aef-b6d9-03b45ba5e1c7" />
 
-
-
-
-
-
- 
 
 
 
