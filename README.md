@@ -20,15 +20,23 @@ Weld Patterns: Patterns defining the T-joint construction.
 
 Distributions for all features were plotted and analyzed to understand their distribution and im-pact on the target variable     
 <img width="499" alt="image" src="https://github.com/user-attachments/assets/bbf105e5-f7b3-476b-b9a9-67d2c2ff858e" />
+ ![image](https://github.com/user-attachments/assets/9c952752-66cb-424f-b3f4-ce7809dab63d)
+ ![image](https://github.com/user-attachments/assets/2c31d264-083e-404b-82fe-ecdb8cb58f4c)
+ ![image](https://github.com/user-attachments/assets/d9d2c0c8-ea0b-4f58-9d5d-11447a40d5fb)
+<img width="222" alt="image" src="https://github.com/user-attachments/assets/4333c65f-7c5c-4c8a-bc81-5d9b9bab07ba" />
 
 
 2. Target Variable Analysis
 The target variable, Zone Size (mm), was analyzed for its:
-•	Distribution: A histogram  for distribution.  
-•	Updated Target: A new variable, Zone Size Updated, was created by adjusting the original target with thickness values from the bottom hat and sheet.
+•	Distribution: A histogram  for distribution.
+ ![image](https://github.com/user-attachments/assets/7052c001-fa2f-468f-a515-5c6280cde029)
  
+•	Updated Target: A new variable, Zone Size Updated, was created by adjusting the original target with thickness values from the bottom hat and sheet.
+ <img width="325" alt="image" src="https://github.com/user-attachments/assets/7b42289e-a0a6-4051-a595-fa7e6932fa69" />
+
 •	Frequency Analysis: Samples with Zone Size Updated > 2.5 mm were filtered, and their corresponding input feature frequencies were studied.
   
+ ![image](https://github.com/user-attachments/assets/4ad345d2-89a2-42c2-a661-6a541b8a2d39)
 
 
   
