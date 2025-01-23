@@ -188,4 +188,4 @@ o	Conclusion: Material type significantly influences the twist angle, with DP590
 Conclusion
 The SHAP analysis highlights Thickness_T, Draw_Depth_T, and Material_T as the most critical features in predicting the twist angle in the T-joint assembly. The insights from this analysis can guide design optimization and parameter adjustments to control twist angle effectively.
  
-![image](https://github.com/user-attachments/assets/81c5c3dd-a118-4b8b-9ea2-f1e78bd232a8)
+
