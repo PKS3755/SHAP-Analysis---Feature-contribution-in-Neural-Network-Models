@@ -20,26 +20,33 @@ Weld Patterns: Patterns defining the T-joint construction.
 
 Distributions for all features were plotted and analyzed to understand their distribution and im-pact on the target variable     
 <img width="499" alt="image" src="https://github.com/user-attachments/assets/bbf105e5-f7b3-476b-b9a9-67d2c2ff858e" />
- ![image](https://github.com/user-attachments/assets/9c952752-66cb-424f-b3f4-ce7809dab63d)
- ![image](https://github.com/user-attachments/assets/2c31d264-083e-404b-82fe-ecdb8cb58f4c)
- ![image](https://github.com/user-attachments/assets/d9d2c0c8-ea0b-4f58-9d5d-11447a40d5fb)
-<img width="222" alt="image" src="https://github.com/user-attachments/assets/4333c65f-7c5c-4c8a-bc81-5d9b9bab07ba" />
+
+ 
 
 
 2. Target Variable Analysis
 The target variable, Zone Size (mm), was analyzed for its:
 •	Distribution: A histogram  for distribution.
- ![image](https://github.com/user-attachments/assets/7052c001-fa2f-468f-a515-5c6280cde029)
+
+ ![image](https://github.com/user-attachments/assets/1d7367bf-7dfa-4fb4-b42e-86220bc5ea26)
+
+
+
  
 •	Updated Target: A new variable, Zone Size Updated, was created by adjusting the original target with thickness values from the bottom hat and sheet.
  <img width="325" alt="image" src="https://github.com/user-attachments/assets/7b42289e-a0a6-4051-a595-fa7e6932fa69" />
 
 •	Frequency Analysis: Samples with Zone Size Updated > 2.5 mm were filtered, and their corresponding input feature frequencies were studied.
   
- ![image](https://github.com/user-attachments/assets/4ad345d2-89a2-42c2-a661-6a541b8a2d39)
+ ![image](https://github.com/user-attachments/assets/567e6573-0cc0-4be9-a7ba-2d082d8e4ef2)
 
+ ![image](https://github.com/user-attachments/assets/4843be8d-5791-4a2d-8570-b9fad9e6d185)
 
-  
+ ![image](https://github.com/user-attachments/assets/8b00e046-22e7-4563-84a6-d1c9b10bcf9e)
+
+   ![image](https://github.com/user-attachments/assets/c240eefb-7740-4e16-b82a-e8136d9f7d98)
+
+ ![image](https://github.com/user-attachments/assets/2171e4fb-6e26-43c1-ae26-b45ad45159ee)
 	 
 
 The plots clearly demonstrate that for zone sizes greater than 2.5 mm, the frequency distributions of draw depth and blank holding force do not exhibit any discernible trends. However, distinct patterns are observed for material, channel width, and thickness, indicating their significant influence on zone size.
@@ -100,6 +107,7 @@ o	SHAP ensures the sum of all feature attributions equals the difference between
 
 SHAP Insights in the Study
 In this study, SHAP analysis revealed the following:
+<img width="396" alt="image" src="https://github.com/user-attachments/assets/ad9064c4-77ec-44cb-9cd2-73903c836f46" />
 
 
 
@@ -155,7 +163,8 @@ SHAP ANALYSIS OF TWIST ANGLE
 
 
 
-	Twist angle analysis was done on the top hat left and right flange. Image to the left indicates for bottom
+<img width="503" alt="image" src="https://github.com/user-attachments/assets/35b1e60f-75d1-4aef-b6d9-03b45ba5e1c7" />
+
 
 
 
